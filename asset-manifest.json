@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CartoonHosting/static/css/main.7e2906ce.css",
+    "main.js": "/CartoonHosting/static/js/main.6e421622.js",
+    "index.html": "/CartoonHosting/index.html",
+    "main.7e2906ce.css.map": "/CartoonHosting/static/css/main.7e2906ce.css.map",
+    "main.6e421622.js.map": "/CartoonHosting/static/js/main.6e421622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2906ce.css",
+    "static/js/main.6e421622.js"
+  ]
+}
